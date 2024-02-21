@@ -1,8 +1,8 @@
 <p align="center"><a href="https://www.facebook.com/swordigo.swordslush" target="_blank" rel="noopener noreferrer">
-	<img src="https://i.postimg.cc/8kqWYsXs/Screenshot-20231122-171534-2.png" width="50" style="margin-right: 10px;"></a>
+	<img src="https://i.postimg.cc/7hHNFjj8/received-2312881688909406.jpg" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩.𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀
+🔹MAHI KHAN
 </h5>
 
 ## Introduction
@@ -35,7 +35,7 @@
 
 <div align="center">
 			<h3>My Replit Account ->
-			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@CliffVincent🔥</a>
+			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@MAHIKHAN🔥</a>
 				<br>
 	My Facebook Account ->
 	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">Yazky🚀</a></h3></div>
